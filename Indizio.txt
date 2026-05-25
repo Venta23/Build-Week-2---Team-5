@@ -1,2 +1,5 @@
 A volte il bot, quando deve sintetizzare informazioni,
 diventa fin troppo trasparente.
+
+Il bot conserva tutto ciò che gli dici, senza fare domande.
+A volte basta parlargli prima di fargli una domanda
