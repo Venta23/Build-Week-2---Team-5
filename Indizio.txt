@@ -1,0 +1,2 @@
+A volte il bot, quando deve sintetizzare informazioni,
+diventa fin troppo trasparente.
